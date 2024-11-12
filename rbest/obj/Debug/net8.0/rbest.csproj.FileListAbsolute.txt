@@ -1,0 +1,14 @@
+G:\rbest\rbest\bin\Debug\net8.0\rbest.exe
+G:\rbest\rbest\bin\Debug\net8.0\rbest.deps.json
+G:\rbest\rbest\bin\Debug\net8.0\rbest.runtimeconfig.json
+G:\rbest\rbest\bin\Debug\net8.0\rbest.dll
+G:\rbest\rbest\bin\Debug\net8.0\rbest.pdb
+G:\rbest\rbest\obj\Debug\net8.0\rbest.GeneratedMSBuildEditorConfig.editorconfig
+G:\rbest\rbest\obj\Debug\net8.0\rbest.AssemblyInfoInputs.cache
+G:\rbest\rbest\obj\Debug\net8.0\rbest.AssemblyInfo.cs
+G:\rbest\rbest\obj\Debug\net8.0\rbest.csproj.CoreCompileInputs.cache
+G:\rbest\rbest\obj\Debug\net8.0\rbest.dll
+G:\rbest\rbest\obj\Debug\net8.0\refint\rbest.dll
+G:\rbest\rbest\obj\Debug\net8.0\rbest.pdb
+G:\rbest\rbest\obj\Debug\net8.0\rbest.genruntimeconfig.cache
+G:\rbest\rbest\obj\Debug\net8.0\ref\rbest.dll
